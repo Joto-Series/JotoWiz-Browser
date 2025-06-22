@@ -28,4 +28,5 @@ Find the `Overrides` folder inside `JotoWizConfig` and open it.
 ### Step 8  
 Repeat Steps 5–6 and select the `Theme` folder inside `JotoWizConfig`.
 
+
 note: for now theres only a windows version of this app
